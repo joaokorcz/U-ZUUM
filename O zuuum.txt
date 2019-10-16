@@ -1,0 +1,33 @@
+[]-------  O zuuum  -------[]
+
+
+O jogo envolve uma temática multijogador, onde uma pessoa controla o ser humano e a outra controla o mosquito.
+
+Instruções: O jogador deve tentar acertar o mosquito com uma chinelada, arremessando-a.
+O mesmo vale para o mosquito, deve tentar acertar o jogador, atirando veneno.
+Se o mosquito passar por cima de uma poça de água ganha mais uma vida pois coloca ovos na mesma,
+com um limite máximo de duas vidas, porém, ao perder uma vida, pode passar acima de uma poça novamente, para acumular mais uma vida,
+dando assim uma ideia de jogo mais disputado e "infinito". A velocidade do mosquito é maior que a do ser humano, porém, a velocidade
+do projétil arremessado pelo humano é muito maior que a do veneno atirado pelo mosquito.
+
+Comandos:
+
+Mosquito
+---------
+W - Cima
+S - Baixo
+D - Direita
+A - Esquerda
+SPACEBAR - Atirar veneno
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ser Humano
+Flecha para cima - Cima
+Flecha para baixo - Baixo
+Flecha para direita - Direita
+Flecha para esquerda - Esquerda
+CTRL(left) - Ativar Taser
+SHIFT - Atirar chinelo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
